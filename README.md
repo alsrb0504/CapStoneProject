@@ -1,6 +1,6 @@
 # 2022-1 캡스톤 디자인
 프론트엔드 저장소
-https://github.com/alsrb0504/CapStoneProject
+https://github.com/alsrb0504/DayLogProject-Frontend
 
 백엔드 저장소
 https://github.com/seunghyeonjung/DayLogProject-Backend
