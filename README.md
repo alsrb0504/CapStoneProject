@@ -1,4 +1,4 @@
-# 2022-1 캡스톤 디자인
+# 2022-1 캡스톤 디자인 7조 : Day-Log Project
 프론트엔드 저장소
 https://github.com/alsrb0504/DayLogProject-Frontend
 
@@ -12,13 +12,8 @@ https://github.com/seunghyeonjung/DayLogProject-Backend
 
 #### 동기
 - 스마트폰이 필수가 되어버린 현대 사회에서 사람들은 일정 관리 앱, 메모장, 카카오톡 나에게 보내기 등 다양한 방법으로 정보를 기록한다. 이를 위해 일정 관리 어플, 다이어리 어플, 생리 달력 어플 등 다양한 앱들을 사용해야 하기 때문에 불편함이 존재한다. 우리는 이런 다양한 일정 및 정보를 한 번에 기록 및 관리할 수 있는 다기능 다이어리 어플을 제작하여 보다 편리한 생활을 이루고자 한다.
-#### 기능
-#### 사용 API
 
-### 사용방법
-
-사진?
-텍스트 설명?
+![로그인 화면](https://user-images.githubusercontent.com/65377787/167308418-d33edf5c-1785-4861-8a40-32f43c6935c0.png)
 
 
 ### 팀소개
@@ -28,6 +23,15 @@ https://github.com/seunghyeonjung/DayLogProject-Backend
 
 ### 지도 교수
 - 우사무엘 교수님
+
+#### 기능
+#### 사용 API
+
+### 사용방법
+
+사진?
+텍스트 설명?
+
 
 
 ### 진행 사항
